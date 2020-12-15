@@ -1,0 +1,5 @@
+invite = new Discord.RichEmbed().setDescription(asdf.url)
+
+  channel.send(invite);
+
+};
